@@ -118,7 +118,9 @@ $(‘.test’) array qaytarir , object arrayi amma click etdikde this hansina kl
 - daha cox yaddas tutur;
 - her problemin helline uygun deyil;
 19. When is classical inheritance an appropriate choice?
-- 
-
+- cox nadiren bezi projectlerde istfade olunur.
+20. When is prototypal inheritance an appropriate choice?
+- ne yalan deyim catmadi valla
+21. 
 
 
