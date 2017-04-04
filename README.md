@@ -100,4 +100,25 @@ $(‘.test’) array qaytarir , object arrayi amma click etdikde this hansina kl
 - 
 
 
+16. What is functional programming?
+- Funksional proqramlasdirmada problemin helli funksiyalara dayanir. Funksiyalarin istifadesi proqramda tekrarlari aradan qaldirir, bu musbet cehetidi. Menfi terefi ise funksiyalar proqramin iwini yavawladir. 
+
+17. What is the difference between classical inheritance and prototypal inheritance?
+- classic inheritance class mentiqine dayanir. OOP dillerdeki inhritance mentiqi JS deki inheritance -dan ferqlenir , cunki javascriptde class anlayiwi ferqlidir. javascriptde ierarchic inheritance qurulusu var. Inheritance prototype chain uzre yonelir.
+
+18. What are the pros and cons of functional programming vs object-oriented programming?
+# OOP musbet cehetleri:
+- her sey object weklinde oldugu ucun asanliq yaradir;
+- objectlerin propertileri metodlari oldugu ucun bunlardan istifade kod tekrarinin qarsisini alir;
+- modul prinsipi rahat modifikasiya etmeye imkan verir;
+- debug daha rahatdi;
+# OOP menfi cehetleri:
+- daha cox emek teleb edir;
+- daha murekkebdi;
+- daha cox yaddas tutur;
+- her problemin helline uygun deyil;
+19. When is classical inheritance an appropriate choice?
+- 
+
+
 
