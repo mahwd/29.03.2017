@@ -98,6 +98,10 @@ $(‘.test’) array qaytarir , object arrayi amma click etdikde this hansina kl
 
 13. What is the difference between undefined and not defined in JavaScript?
 - 
+14. What is function hoisting in JavaScript?
+- hoisting interpeterin Js deyisenlerinin document boyu yoxlayib declare olunub olunmadigini yoxlayir. Eger variable 	cagirildigi yerden asagida declare olunub ve deyer assign olunubsa variable ==> undefined qaytaracaq; 
+ declare hec olunmayibsa ==> not defined qaytarir;
+ 
 
 
 16. What is functional programming?
@@ -121,6 +125,8 @@ $(‘.test’) array qaytarir , object arrayi amma click etdikde this hansina kl
 - cox nadiren bezi projectlerde istfade olunur.
 20. When is prototypal inheritance an appropriate choice?
 - ne yalan deyim catmadi valla
-21. 
-
+21. What does “favor object composition over class inheritance” mean?
+- c/p elemedim #trello.com
+24. What is asynchronous programming, and why is it important in JavaScript? 
+- Asynchronous proqramlasdirma butun kodlarin eyni vaxtda iwlesidir. Yeni interpretator/compiler kodu basdan sona compile edir ve butun emrler bir birini gozlemeden yerine yetirilir.
 
